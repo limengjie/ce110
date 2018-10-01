@@ -1,14 +1,1 @@
-Hello, World!
-Hello, World!
-Hello, World!
-Hello, World!
-Hello, World!
-Hello, World!
-Hello, World!
-Hello, World!
-Hello, World!
-Hello, World!
-Hello, World!
-Hello, World!
-Hello, World!
-Hello, World!
+Welcome to CE110
